@@ -6,7 +6,7 @@ This project is a clone of the Blinkit website, created using HTML, CSS, and Boo
 
 ## Demo
 
-You can view a live demo of the project [here](https://sidd444.github.io/Blinkit-clone/).
+You can view a live demo of the project [here](https://sidd444.github.io/Acciojobs-landing-page/).
 
 ## Features
 
